@@ -1,22 +1,21 @@
-# CLLproject
-The implement of fPM score and related content can be found here.
+# PFS prediction in patients with CLL
 
-The fPM model and other machine learning models can be found in allmodels.RData
+This repository contains the R and Python codes for implementing the fPM score and related scores.
 
-The session info,workstation info and package version info can be found in sessioninfo.txt
+allmodels.RData - the fPM model and the other machine learning models tested in the paper
 
-The usage of fPM score can be found in fPM_performance file.
+sessioninfo.txt - the session information, workstation info and package version information 
 
-The performance of other ML models can be found in fPM_and_otherMLmodels file.
+fPM_performance file - the implement of fPM score
 
-The implement of 4 other CLL prognostic scores can be found in other_prognostic_scores file.
+fPM_and_otherMLmodels file - the implement of other ML models
 
-The genetic analysis details can be found in genetic_analysis file.
+other_prognostic_scores file - the implement of 4 other CLL prognostic scores
 
+genetic_analysis file - the genetic analysis result
 
-The distribution analysis of PFS time and fPM score can be found in distribution_analysis.
+distribution_analysis file - the distribution analysis of PFS time and fPM score
 
-An example about how to produce permutaiton test can be found in permutation_test
+permutation_test file - an example about how to produce permutaiton test in prognostic model
 
-
-If you have any problems about above content, please contact Weikaixin Kong at kong.weikaixin@helsinki.fi.
+Contact - Weikaixin Kong at kong.weikaixin@helsinki.fi
