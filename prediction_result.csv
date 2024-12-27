@@ -1,0 +1,5 @@
+Vandetanib,Bcl.2.Btk_pY223_Itk_pY180,p90RSK_pS380.PLC.gamma2_pY759,Ruxolitinib_Venetoclax,Acalabrutinib_ZSTK474,CD8plus4CD3_T_cells,fPM,riskgroup
+example1,0,1,1,0,0,1,0.70077142896384,highrisk
+example2,1,1,1,0,0,1,0.439637297773393,highrisk
+example3,1,1,1,1,0,0,0.197625080324418,lowrisk
+example4,0,0,1,0,0,0,0.723656753771035,highrisk
