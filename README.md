@@ -10,6 +10,8 @@ demo_script.R - an example about how to use fPM score in practice
 
 demo_data.csv - input data of demo_script.R, the users can replace this file with their own data
 
+prediction_result.csv - the predicted fPM score and risk group by demo_script.R
+
 fPM_performance file - the implement of fPM score
 
 fPM_and_otherMLmodels file - the implement of other ML models
