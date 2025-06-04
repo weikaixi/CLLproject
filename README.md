@@ -5,10 +5,10 @@ This repository contains the R and Python codes for implementing the fPM score a
 allmodels.RData - the fPM model and the other machine learning models tested in the paper
 
 sessioninfo.txt - the session information, workstation info and package version information 
+### 🔧 Files for Model Testing
 
-**demo_script.R - an example about how to use fPM score in practice**
-
-**demo_data.csv - input data of demo_script.R, the users can replace this file with their own data**
+- **`demo_script.R`** – **This script runs the model using a test dataset.**
+- **`demo_data.csv`** – **This is the dummy dataset used for model testing.**
 
 prediction_result.csv - the predicted fPM score and risk group by demo_script.R
 
